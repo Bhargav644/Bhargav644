@@ -39,6 +39,6 @@
 
 
 
-<p><img width="450px" align="left" src="https://github-readme-stats.vercel.app/api?username=bhargav644&show_icons=true&locale=en" alt="bhargav644">
+<p><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=bhargav644&show_icons=true&locale=en" alt="bhargav644">
 
-<img align="right" width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=bhargav644&" alt="bhargav644" /></p>
+<img align="right" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=bhargav644&" alt="bhargav644" /></p>
